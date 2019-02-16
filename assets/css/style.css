@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+.top{
+    background: yellow;
+    border: red;
+    /*padding: 20px;*/
+}
+/* 
+.header{
+    float: left;
+    font-family: 'Georgia', Times, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    padding: 20px 0px;
+
+} */
+
+/* #nav{
+    float: right;
+    padding: 20px;
+} */
+
+.name{
+    float: left;
+    padding: 15px;
+    background-color: red;
+    color: white;
+    margin-left: 100px;
+}
+.nav{
+    float:right;
+    color: green;
+}
+footer{
+    background: black;
+    color: white;
+    clear: both;
+}
